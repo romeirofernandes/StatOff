@@ -90,33 +90,37 @@ function Goals() {
       <div className="border-b border-[#fff] w-full opacity-20"></div>
 
       <div className="max-w-6xl mx-auto px-6 py-12">
-        <div className="flex flex-col md:flex-row items-center justify-between gap-8">
+        <div className="flex flex-col md:flex-row gap-6 items-center justify-center">
           {/* Left Player */}
           <div
-            className="flex-1 relative group cursor-pointer"
+            className="flex-1 relative group cursor-pointer w-full"
             onClick={handlePlayer1Click}
           >
             <img
               src={player1.imageUrl}
               alt={player1.name}
-              className="w-full h-[400px] object-cover rounded-lg brightness-75"
+              className="w-full h-[250px] md:h-[400px] object-cover rounded-lg brightness-75"
             />
-            <div className="absolute bottom-4 left-4 bg-white px-4 py-2 rounded-lg">
-              <h2 className="text-black text-2xl font-bold">{player1.name}</h2>
+            <div className="absolute bottom-2 left-2 md:bottom-4 md:left-4 bg-white px-3 py-1 md:px-4 md:py-2 rounded-lg">
+              <h2 className="text-black text-lg md:text-2xl font-bold">
+                {player1.name}
+              </h2>
             </div>
           </div>
 
           {/* Center OR Section */}
-          <div className="flex flex-col items-center gap-2">
+          <div className="flex flex-col items-center gap-2 -my-4 md:my-0">
             <div
-              className={`relative bg-white rounded-full w-24 h-24 flex items-center justify-center transition-colors duration-300 ${
+              className={`relative bg-white rounded-full w-16 h-16 md:w-24 md:h-24 flex items-center justify-center transition-colors duration-300 ${
                 showCorrect ? "bg-green-500" : "bg-white"
               }`}
             >
               {showCorrect ? (
-                <Check className="text-green-400 w-12 h-12 animate-scale-in" />
+                <Check className="text-green-400 w-8 h-8 md:w-12 md:h-12 animate-scale-in" />
               ) : (
-                <span className="text-[#957dad] text-3xl font-bold">OR</span>
+                <span className="text-black text-xl md:text-2xl font-bold">
+                  OR
+                </span>
               )}
 
               {/* Ripple effect for correct answer */}
@@ -135,16 +139,18 @@ function Goals() {
 
           {/* Right Player */}
           <div
-            className="flex-1 relative group cursor-pointer"
+            className="flex-1 relative group cursor-pointer w-full"
             onClick={handlePlayer2Click}
           >
             <img
               src={player2.imageUrl}
               alt={player2.name}
-              className="w-full h-[400px] object-cover rounded-lg brightness-75"
+              className="w-full h-[250px] md:h-[400px] object-cover rounded-lg brightness-75"
             />
-            <div className="absolute bottom-4 left-4 bg-white px-4 py-2 rounded-lg">
-              <h2 className="text-black text-2xl font-bold">{player2.name}</h2>
+            <div className="absolute bottom-2 left-2 md:bottom-4 md:left-4 bg-white px-3 py-1 md:px-4 md:py-2 rounded-lg">
+              <h2 className="text-black text-lg md:text-2xl font-bold">
+                {player2.name}
+              </h2>
             </div>
           </div>
         </div>

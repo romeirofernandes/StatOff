@@ -64,15 +64,15 @@ function Result() {
         </header>
         <div className="border-b border-[#fff] w-full opacity-20"></div>
 
-        <main className="max-w-6xl mx-auto px-6 py-10 text-center relative">
+        <main className="max-w-6xl mx-auto px-4 sm:px-6 py-10 text-center relative z-10">
           <div className="flex flex-col space-y-8 justify-center items-center">
-            <h2 className="text-3xl font-semibold">You scored:</h2>
-            <div className="inline-block bg-white text-black/90 text-7xl w-1/6 font-bold py-4 px-8 rounded-lg shadow-lg">
+            <h2 className="text-2xl sm:text-3xl font-semibold">You scored:</h2>
+            <div className="inline-block bg-white text-black/90 text-5xl sm:text-7xl font-bold py-4 px-8 rounded-lg shadow-lg w-24 sm:w-32">
               {score}
             </div>
 
-            <div className="bg-black/40 backdrop-blur-sm py-3 px-6 rounded-lg inline-block mx-auto relative">
-              <p className="text-xl">
+            <div className="bg-black/40 backdrop-blur-sm py-3 px-4 sm:px-6 rounded-lg max-w-[90%] sm:max-w-xl mx-auto relative z-20">
+              <p className="text-base sm:text-xl">
                 {score < 10
                   ? lowScoreMessages[
                       Math.floor(Math.random() * lowScoreMessages.length)
@@ -87,7 +87,7 @@ function Result() {
               </p>
             </div>
 
-            <div className="flex flex-col gap-6 max-w-md mx-auto mt-12">
+            <div className="flex flex-col gap-4 sm:gap-6 w-full max-w-sm mx-auto mt-8 sm:mt-12 px-4">
               <Link
                 to={redirectTo}
                 className="w-full px-6 py-4 bg-[#957dad] rounded-lg font-semibold hover:bg-opacity-90 transition-all hover:shadow-lg hover:scale-105 text-md"
