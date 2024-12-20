@@ -1,0 +1,1338 @@
+[
+  {
+    "id": 1,
+    "name": "Alan Shearer",
+    "appearances": 441,
+    "goals": 260,
+    "assists": 68,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/3110-1485180006.jpg?lm=1"
+  },
+  {
+    "id": 2,
+    "name": "Harry Kane",
+    "appearances": 320,
+    "goals": 213,
+    "assists": 47,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/132098-1700211169.jpg?lm=1"
+  },
+  {
+    "id": 3,
+    "name": "Wayne Rooney",
+    "appearances": 491,
+    "goals": 208,
+    "assists": 108,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/3332-1406462596.jpg?lm=1"
+  },
+  {
+    "id": 4,
+    "name": "Andy Cole",
+    "appearances": 415,
+    "goals": 187,
+    "assists": 70,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/3238-1551429940.jpg?lm=1"
+  },
+  {
+    "id": 5,
+    "name": "Sergio Agüero",
+    "appearances": 275,
+    "goals": 184,
+    "assists": 47,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/26399-1580460866.jpg?lm=1"
+  },
+  {
+    "id": 6,
+    "name": "Frank Lampard",
+    "appearances": 611,
+    "goals": 177,
+    "assists": 113,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/3163-1674475335.jpg?lm=1"
+  },
+  {
+    "id": 7,
+    "name": "Thierry Henry",
+    "appearances": 258,
+    "goals": 175,
+    "assists": 72,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/3207-1683199668.jpg?lm=1"
+  },
+  {
+    "id": 8,
+    "name": "Mohamed Salah",
+    "appearances": 278,
+    "goals": 170,
+    "assists": 78,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/148455-1727337594.jpg?lm=1"
+  },
+  {
+    "id": 9,
+    "name": "Jermain Defoe",
+    "appearances": 496,
+    "goals": 163,
+    "assists": 27,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/3875-1483634406.jpg?lm=1"
+  },
+  {
+    "id": 10,
+    "name": "Robbie Fowler",
+    "appearances": 379,
+    "goals": 162,
+    "assists": 35,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/3225-1588597730.jpg?lm=1"
+  },
+  {
+    "id": 11,
+    "name": "Michael Owen",
+    "appearances": 326,
+    "goals": 150,
+    "assists": 38,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/1397-1476361136.jpg?lm=1"
+  },
+  {
+    "id": 12,
+    "name": "Les Ferdinand",
+    "appearances": 349,
+    "goals": 149,
+    "assists": 44,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/s_3645_123_2013_10_29_1.jpg?lm=1"
+  },
+  {
+    "id": 13,
+    "name": "Teddy Sheringham",
+    "appearances": 417,
+    "goals": 146,
+    "assists": 69,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/3392-1602491976.jpg?lm=1"
+  },
+  {
+    "id": 14,
+    "name": "Robin van Persie",
+    "appearances": 280,
+    "goals": 144,
+    "assists": 59,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/4380-1719804523.jpg?lm=1"
+  },
+  {
+    "id": 15,
+    "name": "Jamie Vardy",
+    "appearances": 322,
+    "goals": 142,
+    "assists": 48,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/197838-1683031278.jpg?lm=1"
+  },
+  {
+    "id": 16,
+    "name": "Jimmy Floyd Hasselbaink",
+    "appearances": 288,
+    "goals": 127,
+    "assists": 51,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/3175-1490627112.jpg?lm=1"
+  },
+  {
+    "id": 17,
+    "name": "Robbie Keane",
+    "appearances": 349,
+    "goals": 126,
+    "assists": 34,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/3144-1601201980.jpg?lm=1"
+  },
+  {
+    "id": 18,
+    "name": "Heung-min Son",
+    "appearances": 316,
+    "goals": 125,
+    "assists": 68,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/91845-1669336455.jpg?lm=1"
+  },
+  {
+    "id": 19,
+    "name": "Nicolas Anelka",
+    "appearances": 364,
+    "goals": 125,
+    "assists": 53,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/3226-1683728957.jpg?lm=1"
+  },
+  {
+    "id": 20,
+    "name": "Raheem Sterling",
+    "appearances": 385,
+    "goals": 123,
+    "assists": 63,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/134425-1684165974.jpg?lm=1"
+  },
+  {
+    "id": 21,
+    "name": "Dwight Yorke",
+    "appearances": 375,
+    "goals": 123,
+    "assists": 50,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/3223-1700221492.jpg?lm=1"
+  },
+  {
+    "id": 22,
+    "name": "Steven Gerrard",
+    "appearances": 504,
+    "goals": 121,
+    "assists": 97,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/3109-1719152556.jpg?lm=1"
+  },
+  {
+    "id": 23,
+    "name": "Romelu Lukaku",
+    "appearances": 278,
+    "goals": 121,
+    "assists": 36,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/96341-1661780981.jpg?lm=1"
+  },
+  {
+    "id": 24,
+    "name": "Ian Wright",
+    "appearances": 213,
+    "goals": 113,
+    "assists": 20,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/104637-1683296138.jpg?lm=1"
+  },
+  {
+    "id": 25,
+    "name": "Sadio Mané",
+    "appearances": 263,
+    "goals": 111,
+    "assists": 39,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/200512-1667830279.jpg?lm=1"
+  },
+  {
+    "id": 26,
+    "name": "Emile Heskey",
+    "appearances": 516,
+    "goals": 110,
+    "assists": 44,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/3142-1489581402.jpg?lm=1"
+  },
+  {
+    "id": 27,
+    "name": "Dion Dublin",
+    "appearances": 312,
+    "goals": 110,
+    "assists": 28,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/3763-1416905163.jpg?lm=1"
+  },
+  {
+    "id": 28,
+    "name": "Ryan Giggs",
+    "appearances": 632,
+    "goals": 108,
+    "assists": 166,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/3406-1589198838.jpg?lm=1"
+  },
+  {
+    "id": 29,
+    "name": "Paul Scholes",
+    "appearances": 499,
+    "goals": 107,
+    "assists": 60,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/3397-1595498527.jpg?lm=1"
+  },
+  {
+    "id": 30,
+    "name": "Peter Crouch",
+    "appearances": 468,
+    "goals": 106,
+    "assists": 61,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/4072-1719156908.jpg?lm=1"
+  },
+  {
+    "id": 31,
+    "name": "Darren Bent",
+    "appearances": 277,
+    "goals": 106,
+    "assists": 18,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/13239-1410951034.jpg?lm=1"
+  },
+  {
+    "id": 32,
+    "name": "Didier Drogba",
+    "appearances": 254,
+    "goals": 104,
+    "assists": 56,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/3924-1683633427.jpg?lm=1"
+  },
+  {
+    "id": 33,
+    "name": "Cristiano Ronaldo",
+    "appearances": 236,
+    "goals": 103,
+    "assists": 39,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/8198-1694609670.jpg?lm=1"
+  },
+  {
+    "id": 34,
+    "name": "Matt Le Tissier",
+    "appearances": 270,
+    "goals": 101,
+    "assists": 49,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/s_43705_123_2012_1.jpg?lm=1"
+  },
+  {
+    "id": 35,
+    "name": "Emmanuel Adebayor",
+    "appearances": 242,
+    "goals": 97,
+    "assists": 38,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/8883-1565870134.jpg?lm=1"
+  },
+  {
+    "id": 36,
+    "name": "Yakubu Aiyegbeni",
+    "appearances": 252,
+    "goals": 95,
+    "assists": 25,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/s_8559_29_2009_1.jpg?lm=1"
+  },
+  {
+    "id": 37,
+    "name": "Ruud van Nistelrooy",
+    "appearances": 150,
+    "goals": 95,
+    "assists": 13,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/3407-1730121299.jpg?lm=1"
+  },
+  {
+    "id": 38,
+    "name": "Dimitar Berbatov",
+    "appearances": 229,
+    "goals": 94,
+    "assists": 45,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/65-1683670068.jpg?lm=1"
+  },
+  {
+    "id": 39,
+    "name": "Mark Viduka",
+    "appearances": 240,
+    "goals": 92,
+    "assists": 17,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/3242-1590497020.jpg?lm=1"
+  },
+  {
+    "id": 40,
+    "name": "Kevin Phillips",
+    "appearances": 263,
+    "goals": 92,
+    "assists": 12,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/3131-1589199777.jpg?lm=1"
+  },
+  {
+    "id": 41,
+    "name": "Ole Gunnar Solskjær",
+    "appearances": 235,
+    "goals": 91,
+    "assists": 41,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/3394-1595504030.jpg?lm=1"
+  },
+  {
+    "id": 42,
+    "name": "Olivier Giroud",
+    "appearances": 255,
+    "goals": 90,
+    "assists": 28,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/82442-1725258600.jpg?lm=1"
+  },
+  {
+    "id": 43,
+    "name": "James Beattie",
+    "appearances": 329,
+    "goals": 90,
+    "assists": 21,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHIwsYe-oiU93w_WzAq6KT9lDSOKZhVIqVPg&s"
+  },
+  {
+    "id": 44,
+    "name": "Callum Wilson",
+    "appearances": 225,
+    "goals": 88,
+    "assists": 23,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/123682-1668090039.jpg?lm=1"
+  },
+  {
+    "id": 45,
+    "name": "Dennis Bergkamp",
+    "appearances": 315,
+    "goals": 87,
+    "assists": 96,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/3187-1683297206.jpg?lm=1"
+  },
+  {
+    "id": 46,
+    "name": "Kevin Davies",
+    "appearances": 442,
+    "goals": 87,
+    "assists": 45,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/4114-1505749327.jpg?lm=1"
+  },
+  {
+    "id": 47,
+    "name": "Marcus Rashford",
+    "appearances": 287,
+    "goals": 87,
+    "assists": 40,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/258923-1674473054.jpg?lm=1"
+  },
+  {
+    "id": 48,
+    "name": "Christian Benteke",
+    "appearances": 280,
+    "goals": 86,
+    "assists": 22,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/50201-1709490192.jpg?lm=1"
+  },
+  {
+    "id": 49,
+    "name": "Eden Hazard",
+    "appearances": 245,
+    "goals": 85,
+    "assists": 54,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/50202-1665067742.jpg?lm=1"
+  },
+  {
+    "id": 50,
+    "name": "Fernando Torres",
+    "appearances": 212,
+    "goals": 85,
+    "assists": 32,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/7767-1683642827.jpg?lm=1"
+  },
+  {
+    "id": 51,
+    "name": "Carlos Tevez",
+    "appearances": 202,
+    "goals": 84,
+    "assists": 37,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/4276-1719495009.jpg?lm=1"
+  },
+  {
+    "id": 52,
+    "name": "Louis Saha",
+    "appearances": 288,
+    "goals": 84,
+    "assists": 18,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/s_4015_398_2013_02_14_1.jpg?lm=1"
+  },
+  {
+    "id": 53,
+    "name": "Chris Sutton",
+    "appearances": 255,
+    "goals": 83,
+    "assists": 31,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/7453-1562138265.jpg?lm=1"
+  },
+  {
+    "id": 54,
+    "name": "Kevin Campbell",
+    "appearances": 325,
+    "goals": 83,
+    "assists": 28,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/3468-1718447734.jpg?lm=1"
+  },
+  {
+    "id": 55,
+    "name": "Riyad Mahrez",
+    "appearances": 284,
+    "goals": 82,
+    "assists": 60,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/171424-1699948752.jpg?lm=1"
+  },
+  {
+    "id": 56,
+    "name": "Roberto Firmino",
+    "appearances": 256,
+    "goals": 82,
+    "assists": 51,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/131789-1699522816.jpg?lm=1"
+  },
+  {
+    "id": 57,
+    "name": "Theo Walcott",
+    "appearances": 397,
+    "goals": 80,
+    "assists": 55,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/33713-1685709936.jpg?lm=1"
+  },
+  {
+    "id": 58,
+    "name": "Gary Speed",
+    "appearances": 535,
+    "goals": 80,
+    "assists": 40,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/3459-1505747464.jpg?lm=1"
+  },
+  {
+    "id": 59,
+    "name": "Craig Bellamy",
+    "appearances": 294,
+    "goals": 80,
+    "assists": 36,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/3297-1481635425.jpg?lm=1"
+  },
+  {
+    "id": 60,
+    "name": "Chris Wood",
+    "appearances": 243,
+    "goals": 79,
+    "assists": 8,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/108725-1674209978.jpg?lm=1"
+  },
+  {
+    "id": 61,
+    "name": "Tony Cottee",
+    "appearances": 220,
+    "goals": 78,
+    "assists": 7,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/s_107792_123_2012_1.jpg?lm=1"
+  },
+  {
+    "id": 62,
+    "name": "Daniel Sturridge",
+    "appearances": 218,
+    "goals": 77,
+    "assists": 22,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/47082-1538297993.jpg?lm=1"
+  },
+  {
+    "id": 63,
+    "name": "Erling Haaland",
+    "appearances": 82,
+    "goals": 76,
+    "assists": 13,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/418560-1709108116.png?lm=1"
+  },
+  {
+    "id": 64,
+    "name": "Gabriel Agbonlahor",
+    "appearances": 322,
+    "goals": 73,
+    "assists": 44,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/37148-1410951010.jpg?lm=1"
+  },
+  {
+    "id": 65,
+    "name": "Gabriel Jesus",
+    "appearances": 225,
+    "goals": 73,
+    "assists": 42,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/363205-1669711141.jpg?lm=1"
+  },
+  {
+    "id": 66,
+    "name": "Danny Welbeck",
+    "appearances": 347,
+    "goals": 73,
+    "assists": 30,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/67063-1700673547.jpg?lm=1"
+  },
+  {
+    "id": 67,
+    "name": "Danny Ings",
+    "appearances": 234,
+    "goals": 72,
+    "assists": 22,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/134294-1674218597.jpg?lm=1"
+  },
+  {
+    "id": 68,
+    "name": "Brian Deane",
+    "appearances": 285,
+    "goals": 71,
+    "assists": 30,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/s_8058_123_2012_11_22_1.jpg?lm=1"
+  },
+  {
+    "id": 69,
+    "name": "Chris Armstrong",
+    "appearances": 216,
+    "goals": 71,
+    "assists": 14,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTENOm2yxaYspu9ygC_PMjsUafnzfFMS0IE7Q&s"
+  },
+  {
+    "id": 70,
+    "name": "Kevin De Bruyne",
+    "appearances": 270,
+    "goals": 70,
+    "assists": 116,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/88755-1713391485.jpg?lm=1"
+  },
+  {
+    "id": 71,
+    "name": "Éric Cantona",
+    "appearances": 156,
+    "goals": 70,
+    "assists": 55,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/12000-1464096559.jpg?lm=1"
+  },
+  {
+    "id": 72,
+    "name": "Luis Suárez",
+    "appearances": 110,
+    "goals": 69,
+    "assists": 24,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/44352-1710080919.jpg?lm=1"
+  },
+  {
+    "id": 73,
+    "name": "Kevin Nolan",
+    "appearances": 401,
+    "goals": 69,
+    "assists": 20,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/3950-1482228569.jpg?lm=1"
+  },
+  {
+    "id": 74,
+    "name": "Pierre-Emerick Aubameyang",
+    "appearances": 143,
+    "goals": 69,
+    "assists": 16,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/58864-1676029326.png?lm=1"
+  },
+  {
+    "id": 75,
+    "name": "Michail Antonio",
+    "appearances": 268,
+    "goals": 68,
+    "assists": 34,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/104124-1709884222.jpg?lm=1"
+  },
+  {
+    "id": 76,
+    "name": "Wilfried Zaha",
+    "appearances": 305,
+    "goals": 68,
+    "assists": 29,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/145988-1701182730.png?lm=1"
+  },
+  {
+    "id": 77,
+    "name": "Duncan Ferguson",
+    "appearances": 269,
+    "goals": 68,
+    "assists": 12,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/s_3239_123_2012_1.jpg?lm=1"
+  },
+  {
+    "id": 78,
+    "name": "Gylfi Sigurdsson",
+    "appearances": 318,
+    "goals": 67,
+    "assists": 51,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/90466-1462872828.jpg?lm=1"
+  },
+  {
+    "id": 79,
+    "name": "Paolo Di Canio",
+    "appearances": 190,
+    "goals": 66,
+    "assists": 33,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/s_3699_123_2012_1.jpg?lm=1"
+  },
+  {
+    "id": 80,
+    "name": "Ollie Watkins",
+    "appearances": 162,
+    "goals": 66,
+    "assists": 29,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/324358-1708341279.jpg?lm=1"
+  },
+  {
+    "id": 81,
+    "name": "Mark Hughes",
+    "appearances": 292,
+    "goals": 64,
+    "assists": 21,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/8022-1542291240.jpg?lm=1"
+  },
+  {
+    "id": 82,
+    "name": "Alexis Sánchez",
+    "appearances": 154,
+    "goals": 63,
+    "assists": 31,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/40433-1660118147.jpg?lm=1"
+  },
+  {
+    "id": 83,
+    "name": "Anthony Martial",
+    "appearances": 209,
+    "goals": 63,
+    "assists": 27,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/182877-1728416288.png?lm=1"
+  },
+  {
+    "id": 84,
+    "name": "Dean Holdsworth",
+    "appearances": 229,
+    "goals": 63,
+    "assists": 12,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/s_13792_123_2013_10_29_1.jpg?lm=1"
+  },
+  {
+    "id": 85,
+    "name": "David Beckham",
+    "appearances": 265,
+    "goals": 62,
+    "assists": 83,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/3139-1459504284.jpg?lm=1"
+  },
+  {
+    "id": 86,
+    "name": "Robert Pirès",
+    "appearances": 198,
+    "goals": 62,
+    "assists": 42,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/3185-1586964073.jpg?lm=1"
+  },
+  {
+    "id": 87,
+    "name": "Stan Collymore",
+    "appearances": 163,
+    "goals": 62,
+    "assists": 30,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/106811-1490793021.jpg?lm=1"
+  },
+  {
+    "id": 88,
+    "name": "David Silva",
+    "appearances": 309,
+    "goals": 60,
+    "assists": 95,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/35518-1683269363.jpg?lm=1"
+  },
+  {
+    "id": 89,
+    "name": "Yaya Touré",
+    "appearances": 230,
+    "goals": 60,
+    "assists": 31,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/13091-1719518647.jpg?lm=1"
+  },
+  {
+    "id": 90,
+    "name": "Richarlison",
+    "appearances": 233,
+    "goals": 60,
+    "assists": 25,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/378710-1665608231.jpg?lm=1"
+  },
+  {
+    "id": 91,
+    "name": "Diogo Jota",
+    "appearances": 172,
+    "goals": 60,
+    "assists": 19,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/340950-1716296423.jpg?lm=1"
+  },
+  {
+    "id": 92,
+    "name": "Peter Beardsley",
+    "appearances": 184,
+    "goals": 59,
+    "assists": 33,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/s_102030_123_2012_1.jpg?lm=1"
+  },
+  {
+    "id": 93,
+    "name": "Niall Quinn",
+    "appearances": 250,
+    "goals": 59,
+    "assists": 26,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/s_104110_123_2012_1.jpg?lm=1"
+  },
+  {
+    "id": 94,
+    "name": "Gianfranco Zola",
+    "appearances": 229,
+    "goals": 59,
+    "assists": 24,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/s_3177_123_2012_1.jpg?lm=1"
+  },
+  {
+    "id": 95,
+    "name": "Bruno Fernandes",
+    "appearances": 175,
+    "goals": 58,
+    "assists": 45,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/240306-1683882766.jpg?lm=1"
+  },
+  {
+    "id": 96,
+    "name": "Harry Kewell",
+    "appearances": 274,
+    "goals": 57,
+    "assists": 31,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/s_3241_25580_2014_03_26_1.jpg?lm=1"
+  },
+  {
+    "id": 97,
+    "name": "Lee Bowyer",
+    "appearances": 397,
+    "goals": 57,
+    "assists": 29,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/s_3877_515_2012_1.jpg?lm=1"
+  },
+  {
+    "id": 98,
+    "name": "Clint Dempsey",
+    "appearances": 218,
+    "goals": 57,
+    "assists": 20,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/27577-1520798945.jpg?lm=1"
+  },
+  {
+    "id": 99,
+    "name": "James Ward-Prowse",
+    "appearances": 387,
+    "goals": 56,
+    "assists": 45,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/181579-1684751045.jpg?lm=1"
+  },
+  {
+    "id": 100,
+    "name": "Shane Long",
+    "appearances": 344,
+    "goals": 56,
+    "assists": 26,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/37304-1464869790.jpg?lm=1"
+  },
+  {
+    "id": 101,
+    "name": "Nwankwo Kanu",
+    "appearances": 271,
+    "goals": 54,
+    "assists": 29,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/3133-1714049981.jpg?lm=1"
+  },
+  {
+    "id": 102,
+    "name": "Andy Carroll",
+    "appearances": 248,
+    "goals": 54,
+    "assists": 29,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/48066-1488467838.jpg?lm=1"
+  },
+  {
+    "id": 103,
+    "name": "Nick Barmby",
+    "appearances": 343,
+    "goals": 54,
+    "assists": 28,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/s_3222_3008_2009_1.jpg?lm=1"
+  },
+  {
+    "id": 104,
+    "name": "Phil Foden",
+    "appearances": 175,
+    "goals": 54,
+    "assists": 27,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/406635-1668524492.jpg?lm=1"
+  },
+  {
+    "id": 105,
+    "name": "Alexandre Lacazette",
+    "appearances": 158,
+    "goals": 54,
+    "assists": 27,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/93720-1672830448.jpg?lm=1"
+  },
+  {
+    "id": 106,
+    "name": "Gustavo Poyet",
+    "appearances": 186,
+    "goals": 54,
+    "assists": 15,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/s_3361_123_2012_1.jpg?lm=1"
+  },
+  {
+    "id": 107,
+    "name": "Gareth Barry",
+    "appearances": 653,
+    "goals": 53,
+    "assists": 65,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/3291-1481886107.jpg?lm=1"
+  },
+  {
+    "id": 108,
+    "name": "Gareth Bale",
+    "appearances": 166,
+    "goals": 53,
+    "assists": 27,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/39381-1658665343.jpg?lm=1"
+  },
+  {
+    "id": 109,
+    "name": "Joshua King",
+    "appearances": 204,
+    "goals": 53,
+    "assists": 17,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/91059-1696447644.png?lm=1"
+  },
+  {
+    "id": 110,
+    "name": "Diego Costa",
+    "appearances": 112,
+    "goals": 53,
+    "assists": 16,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/44779-1453805669.jpg?lm=1"
+  },
+  {
+    "id": 111,
+    "name": "Steven Fletcher",
+    "appearances": 189,
+    "goals": 53,
+    "assists": 12,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/35099-1598511964.jpg?lm=1"
+  },
+  {
+    "id": 112,
+    "name": "Chicharito",
+    "appearances": 158,
+    "goals": 53,
+    "assists": 10,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/50935-1678022181.jpg?lm=1"
+  },
+  {
+    "id": 113,
+    "name": "Efan Ekoku",
+    "appearances": 159,
+    "goals": 53,
+    "assists": 7,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/s_102315_123_2012_1.jpg?lm=1"
+  },
+  {
+    "id": 114,
+    "name": "Juan Mata",
+    "appearances": 278,
+    "goals": 52,
+    "assists": 55,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/44068-1671102342.png?lm=1"
+  },
+  {
+    "id": 115,
+    "name": "Bukayo Saka",
+    "appearances": 185,
+    "goals": 52,
+    "assists": 45,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/433177-1684155052.jpg?lm=1"
+  },
+  {
+    "id": 116,
+    "name": "Edin Dzeko",
+    "appearances": 130,
+    "goals": 50,
+    "assists": 11,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/28396-1728391796.JPG?lm=1"
+  },
+  {
+    "id": 117,
+    "name": "Ashley Young",
+    "appearances": 466,
+    "goals": 49,
+    "assists": 71,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/14086-1700736434.jpg?lm=1"
+  },
+  {
+    "id": 118,
+    "name": "Nolberto Solano",
+    "appearances": 302,
+    "goals": 49,
+    "assists": 61,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/3460-1671633384.jpg?lm=1"
+  },
+  {
+    "id": 119,
+    "name": "Gary McAllister",
+    "appearances": 325,
+    "goals": 49,
+    "assists": 35,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/10032-1587041297.jpg?lm=1"
+  },
+  {
+    "id": 120,
+    "name": "Freddie Ljungberg",
+    "appearances": 241,
+    "goals": 48,
+    "assists": 36,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/3134-1488212398.jpg?lm=1"
+  },
+  {
+    "id": 121,
+    "name": "Ian Rush",
+    "appearances": 176,
+    "goals": 48,
+    "assists": 14,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/145743-1524842870.jpg?lm=1"
+  },
+  {
+    "id": 122,
+    "name": "Willian",
+    "appearances": 317,
+    "goals": 47,
+    "assists": 46,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/52769-1728418132.png?lm=1"
+  },
+  {
+    "id": 123,
+    "name": "Mark Noble",
+    "appearances": 414,
+    "goals": 47,
+    "assists": 40,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/31835-1470302562.jpg?lm=1"
+  },
+  {
+    "id": 124,
+    "name": "Philippe Coutinho",
+    "appearances": 193,
+    "goals": 47,
+    "assists": 38,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/80444-1640621762.jpg?lm=1"
+  },
+  {
+    "id": 125,
+    "name": "Bobby Zamora",
+    "appearances": 252,
+    "goals": 47,
+    "assists": 37,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/4205-1598528728.jpg?lm=1"
+  },
+  {
+    "id": 126,
+    "name": "Jarrod Bowen",
+    "appearances": 182,
+    "goals": 47,
+    "assists": 35,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/314875-1662362005.jpg?lm=1"
+  },
+  {
+    "id": 127,
+    "name": "Troy Deeney",
+    "appearances": 165,
+    "goals": 47,
+    "assists": 21,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/65477-1689000259.jpg?lm=1"
+  },
+  {
+    "id": 128,
+    "name": "Joe Cole",
+    "appearances": 379,
+    "goals": 46,
+    "assists": 38,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/3876-1719154696.jpg?lm=1"
+  },
+  {
+    "id": 129,
+    "name": "Paul Merson",
+    "appearances": 280,
+    "goals": 46,
+    "assists": 38,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/3250-1688134536.jpg?lm=1"
+  },
+  {
+    "id": 130,
+    "name": "İlkay Gündoğan",
+    "appearances": 203,
+    "goals": 44,
+    "assists": 17,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/53622-1689683568.jpg?lm=1"
+  },
+  {
+    "id": 131,
+    "name": "Frédéric Kanouté",
+    "appearances": 144,
+    "goals": 44,
+    "assists": 13,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/3700-1678198342.jpg?lm=1"
+  },
+  {
+    "id": 132,
+    "name": "Juan Pablo Ángel",
+    "appearances": 175,
+    "goals": 44,
+    "assists": 9,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/3278-1591807425.jpg?lm=1"
+  },
+  {
+    "id": 133,
+    "name": "Marko Arnautovic",
+    "appearances": 184,
+    "goals": 43,
+    "assists": 33,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/41384-1716316175.jpg?lm=1"
+  },
+  {
+    "id": 134,
+    "name": "Shola Ameobi",
+    "appearances": 299,
+    "goals": 43,
+    "assists": 31,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/s_3276_762_2013_08_07_1.jpg?lm=1"
+  },
+  {
+    "id": 135,
+    "name": "Jonathan Walters",
+    "appearances": 233,
+    "goals": 43,
+    "assists": 20,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/3306-1459258135.jpg?lm=1"
+  },
+  {
+    "id": 136,
+    "name": "David Hirst",
+    "appearances": 135,
+    "goals": 43,
+    "assists": 8,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCMuTuCrcDQiPGlrcJmpkHI7U7daRmWN-MSQ&s"
+  },
+  {
+    "id": 137,
+    "name": "Noel Whelan",
+    "appearances": 243,
+    "goals": 43,
+    "assists": 7,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/3315-1495636816.jpg?lm=1"
+  },
+  {
+    "id": 138,
+    "name": "Demba Ba",
+    "appearances": 99,
+    "goals": 43,
+    "assists": 7,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/40205-1583155060.jpg?lm=1"
+  },
+  {
+    "id": 139,
+    "name": "Mikel Arteta",
+    "appearances": 284,
+    "goals": 42,
+    "assists": 41,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/7451-1588598742.jpg?lm=1"
+  },
+  {
+    "id": 140,
+    "name": "Paul Ince",
+    "appearances": 306,
+    "goals": 42,
+    "assists": 28,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/3248-1465311938.jpg?lm=1"
+  },
+  {
+    "id": 141,
+    "name": "Kelechi Iheanacho",
+    "appearances": 196,
+    "goals": 42,
+    "assists": 25,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/295330-1617442598.jpg?lm=1"
+  },
+  {
+    "id": 142,
+    "name": "Andrey Kanchelskis",
+    "appearances": 151,
+    "goals": 42,
+    "assists": 20,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/3742-1603093459.jpg?lm=1"
+  },
+  {
+    "id": 143,
+    "name": "Julian Joachim",
+    "appearances": 155,
+    "goals": 42,
+    "assists": 17,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/10027-1490792939.jpg?lm=1"
+  },
+  {
+    "id": 144,
+    "name": "Ashley Barnes",
+    "appearances": 200,
+    "goals": 42,
+    "assists": 6,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/63200-1730035902.jpg?lm=1"
+  },
+  {
+    "id": 145,
+    "name": "Marians Pahars",
+    "appearances": 129,
+    "goals": 42,
+    "assists": 2,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/s_3689_123_2013_10_10_1.jpg?lm=1"
+  },
+  {
+    "id": 146,
+    "name": "Darren Huckerby",
+    "appearances": 202,
+    "goals": 38,
+    "assists": 12,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/3136-1599841476.jpg?lm=1"
+  },
+  {
+    "id": 147,
+    "name": "John Carew",
+    "appearances": 123,
+    "goals": 38,
+    "assists": 12,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/3570-1730987230.jpg?lm=1"
+  },
+  {
+    "id": 148,
+    "name": "Aleksandar Mitrović",
+    "appearances": 129,
+    "goals": 38,
+    "assists": 11,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/51152-1697050954.png?lm=1"
+  },
+  {
+    "id": 149,
+    "name": "David Unsworth",
+    "appearances": 364,
+    "goals": 38,
+    "assists": 9,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/s_3272_123_2012_11_29_1.jpg?lm=1"
+  },
+  {
+    "id": 150,
+    "name": "Alexander Isak",
+    "appearances": 66,
+    "goals": 38,
+    "assists": 8,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/349066-1680791339.jpg?lm=1"
+  },
+  {
+    "id": 151,
+    "name": "Dean Sturridge",
+    "appearances": 154,
+    "goals": 38,
+    "assists": 7,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/s_4230_123_2013_10_30_1.jpg?lm=1"
+  },
+  {
+    "id": 152,
+    "name": "Tore André Flo",
+    "appearances": 141,
+    "goals": 38,
+    "assists": 5,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/3081-1596546986.jpg?lm=1"
+  },
+  {
+    "id": 153,
+    "name": "Stewart Downing",
+    "appearances": 408,
+    "goals": 37,
+    "assists": 50,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/4063-1719156645.jpg?lm=1"
+  },
+  {
+    "id": 154,
+    "name": "Marouane Fellaini",
+    "appearances": 260,
+    "goals": 37,
+    "assists": 20,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/39679-1549036391.jpg?lm=1"
+  },
+  {
+    "id": 155,
+    "name": "Tim Sherwood",
+    "appearances": 341,
+    "goals": 37,
+    "assists": 19,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/s_4005_123_2012_11_29_1.jpg?lm=1"
+  },
+  {
+    "id": 156,
+    "name": "Kevin Doyle",
+    "appearances": 164,
+    "goals": 37,
+    "assists": 17,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/35193-1489695072.jpg?lm=1"
+  },
+  {
+    "id": 157,
+    "name": "Ashley Ward",
+    "appearances": 137,
+    "goals": 36,
+    "assists": 11,
+    "imageUrl": "https://www.thesun.co.uk/wp-content/uploads/2018/05/nintchdbpict000001318583.jpg?strip=all&w=683"
+  },
+  {
+    "id": 158,
+    "name": "John Spencer",
+    "appearances": 112,
+    "goals": 36,
+    "assists": 11,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/27004-1596366262.jpg?lm=1"
+  },
+  {
+    "id": 159,
+    "name": "Ivan Toney",
+    "appearances": 85,
+    "goals": 36,
+    "assists": 11,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/251664-1677676808.jpg?lm=1"
+  },
+  {
+    "id": 160,
+    "name": "Paul Dickov",
+    "appearances": 155,
+    "goals": 36,
+    "assists": 10,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/s_9221_123_2012_11_28_1.jpg?lm=1"
+  },
+  {
+    "id": 161,
+    "name": "Wilfried Bony",
+    "appearances": 115,
+    "goals": 36,
+    "assists": 10,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/81808-1476887603.jpg?lm=1"
+  },
+  {
+    "id": 162,
+    "name": "Brian McBride",
+    "appearances": 148,
+    "goals": 36,
+    "assists": 3,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/3469-1586204132.jpg?lm=1"
+  },
+  {
+    "id": 163,
+    "name": "Florent Malouda",
+    "appearances": 149,
+    "goals": 35,
+    "assists": 24,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/5461-1555058568.jpg?lm=1"
+  },
+  {
+    "id": 164,
+    "name": "Gabriel Martinelli",
+    "appearances": 142,
+    "goals": 35,
+    "assists": 18,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/655488-1682689091.jpg?lm=1"
+  },
+  {
+    "id": 165,
+    "name": "Benny Carbone",
+    "appearances": 177,
+    "goals": 35,
+    "assists": 10,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/s_3389_123_2012_1.jpg?lm=1"
+  },
+  {
+    "id": 166,
+    "name": "Peter Ndlovu",
+    "appearances": 152,
+    "goals": 35,
+    "assists": 10,
+    "imageUrl": "https://i2-prod.dailyrecord.co.uk/incoming/article1494212.ece/ALTERNATES/s1200c/Peter%20Ndlovu"
+  },
+  {
+    "id": 167,
+    "name": "Tomasz Radzinski",
+    "appearances": 194,
+    "goals": 35,
+    "assists": 9,
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/medium/3585-1510838232.jpg?lm=1"
+  }
+]
