@@ -47,9 +47,10 @@ const Home = () => {
         <div className="text-center space-y-16">
           {/* Hero Section */}
           <div className="space-y-8">
-            <h1 className="text-6xl font-['Bricolage_Grotesque'] font-bold text-[#fff]">
+            <h1 className="text-4xl sm:text-5xl md:text-6xl font-['Bricolage_Grotesque'] font-bold text-[#fff]">
               <span className="inline-block animate-float">
-                Test your ball knowledge
+                Test your ball
+                <br className="md:hidden" /> knowledge
               </span>
             </h1>
             <p className="text-[#fff] text-lg  opacity-90 max-w-xl mx-auto">
@@ -58,7 +59,7 @@ const Home = () => {
             </p>
             <Link
               to="/category"
-              className="inline-block px-8 py-4 bg-[#957DAD] text-[#FFFFFF] rounded-lg font-['Poppins'] hover:bg-opacity-90 transition-all duration-300 hover:transform hover:scale-105 font-semibold text-lg"
+              className="inline-block px-6 sm:px-8 py-3 sm:py-4 bg-[#957DAD] text-[#FFFFFF] rounded-lg font-['Poppins'] hover:bg-opacity-90 transition-all duration-300 hover:transform hover:scale-105 font-semibold text-base sm:text-lg"
             >
               Start Playing
             </Link>
